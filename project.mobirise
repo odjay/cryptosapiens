@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -61,12 +61,17 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "mbrsiteDomain": "7i9few6dr5",
+    "mbrsiteDomain": "v6eksoqlfj",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='https://www.termsfeed.com/live/d8c62f07-4b2d-4851-b740-008676dace9d'>Terms of Service</a> and <a href='https://www.termsfeed.com/live/d8c62f07-4b2d-4851-b740-008676dace9d'>Privacy Policy</a>."
+    },
     "witsec-mailform": false,
     "htmltag": "<html>",
     "publishChangesOnly": false
